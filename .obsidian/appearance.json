@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Obsidian Nord",
+  "theme": "obsidian",
+  "textFontFamily": "Inter",
+  "enabledCssSnippets": [
+    "desmos",
+    "centerImage",
+    "preTable"
+  ]
+}

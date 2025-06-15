@@ -1,0 +1,38 @@
+/* https://github.com/Nigecat/obsidian-desmos/issues/59#issuecomment-1123065429 */
+
+/* Set the graph background colour */
+.desmos-graph .dcg-svg-background {
+     fill: var(--background-primary);
+}
+
+/* Set gridline colour */
+ .desmos-graph .dcg-svg-minor-gridline {
+    stroke: #ffffff;
+}
+
+/* Set axis colour */
+.desmos-graph .dcg-svg-axis-line {
+    stroke: #ffffff;
+}
+
+/* Set axis text border colour (you probably want this to be the same as the graph background colour) */
+.desmos-graph .dcg-svg-axis-value :nth-child(1) {
+    stroke-width: 0;
+}
+
+/* Set axis text colour */
+
+.desmos-graph .dcg-svg-axis-value :nth-child(2) {
+    stroke: #ccc;
+}
+
+/* Set label text colour */
+.desmos-graph .dcg-svg-label :nth-child(2) > * :nth-child(1) {
+    /* fill: var(--text-accent); */
+    stroke: transparent;
+}
+
+/* Set label text border colour (you probably want this to be the same as the graph background colour) */
+.desmos-graph .dcg-svg-label :nth-child(1) > * :nth-child(1) {
+    stroke-width: 0;
+}
