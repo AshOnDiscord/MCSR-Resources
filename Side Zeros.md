@@ -49,7 +49,7 @@ At Y: 90
 [[#Front#88#Y 91|Same as front setup]]
 ## 94
 #### Y: 86, 90
-*Note that the standing height is one lower than normal
+*Note that the standing height is one lower than normal*
 1. Extended standard setup from middle of corner
 #### Y: 95
 [[#Front#94#Y 95|Same as front setup]] or
