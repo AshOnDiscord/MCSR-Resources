@@ -12,7 +12,7 @@ Iron Pick, Iron/Stone Axe, Bucket, Shovel, Door, Boat, Shears, Flint & Steel
 
 `ag`/`-` - tools
 `b` - boat, doors, bucket, boots (a-lot of  junk)
-- `uc` - boat, doors, bucket / `j` - boats, doors
+- `uc` - boat, doors, bucket / `j` - boats, doors (would hand craftn  )
 - `ts` - boots / `et` - armor + bucket
 Flint & Steel - just click, always first row & only one craft (tbh i would just normal craft)
 
