@@ -16,6 +16,11 @@
 Only one middle block, <= 88
 Two thin middle blocks, <= 100
 Two wide middle blocks, = 103
+
+At Y: 90
+- Is the top of the tower basically right there -> 94
+- Is the top of the tower in reach -> 97
+- Is the top of the tower too far -> 100
 # Front
 ## 88
 #### Y: 91
@@ -43,11 +48,15 @@ Two wide middle blocks, = 103
 #### Y: 91
 [[#Front#88#Y 91|Same as front setup]]
 ## 94
+#### Y: 86, 90
+*Note that the standing height is one lower than normal
+1. Extended standard setup from middle of corner
 #### Y: 95
-1. Back wall setup
-2. Staircase 1x
-3. Standard setup *but only diagonal staircase 1x*
-4. Drop back one block for standing
+[[#Front#94#Y 95|Same as front setup]] or
+1. Reach top from middle pillaring
+2. Staircase left one
+3. Diagonal 1x
+4. Standard setup
 ## 97
 #### Y: 86
 *Note that the standing height is one lower than normal*
@@ -55,8 +64,7 @@ Two wide middle blocks, = 103
 2. Standard setup
 #### Y: 90, 95
 *Note that the standing height is one lower than normal for 90*
-1. Back wall setup
-2. Standard setup
+1. Extended standard setup from middle of corner
 ## 100
 #### Y: 86,90
 *Note that the standing height is one lower than normal*
