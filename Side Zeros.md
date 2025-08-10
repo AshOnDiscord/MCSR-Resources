@@ -47,6 +47,11 @@ At Y: 90
 ## 88
 #### Y: 91
 [[#Front#88#Y 91|Same as front setup]]
+## 91
+#### Y: 95
+**This is kinda stupid, just go do the normal out one extra regular 95 setup**
+1. Right 1x from middle of the right side of the corner
+2. Standard setup
 ## 94
 #### Y: 86, 90
 *Note that the standing height is one lower than normal*
