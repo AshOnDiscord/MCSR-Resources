@@ -9,5 +9,6 @@
   "obsidian-git",
   "copy-document-as-html",
   "obsidian-pandoc",
-  "emoji-shortcodes"
+  "emoji-shortcodes",
+  "custom-sort"
 ]

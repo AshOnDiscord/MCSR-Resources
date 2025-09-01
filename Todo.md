@@ -13,6 +13,7 @@ All overworld types
 - Ruined Portal (separate the lava completion into a separate section)
 All enters
 - Lava pool
+	- Wood light
 - Ruined Portal
 - Ocean
 	- L Shape
@@ -20,6 +21,7 @@ All enters
 Bastions
 - Bridge
 	- DK, CS
+	- Tnt chalice
 - Housing
 	- Top Down Kuee
 	- Manhunt
@@ -30,11 +32,14 @@ Bastions
 	- Gaps
 	- Double Triple
 	- TTG
+- Misc
+	- F&S kb
 Fortress
 - Locating using pieray
 - Fort nav
 	- Maybe preemptive
 - Blaze bedding
+- Wither tower and f&s
 Eye Measuring
 - Regular
 - Boat
@@ -46,3 +51,8 @@ Stronghold
 End
 - One cycle
 - Zero
+
+Misc:
+- Blind portaling
+- Search crafting
+- Maps
