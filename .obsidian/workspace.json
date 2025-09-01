@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rewrite/1 - Setup/2.1 - Instance Setup.md",
+                "file": "rewrite/1 - Setup/1.1 - Instance Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1 - Instance Setup"
+              "title": "1.1 - Instance Setup"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +197,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "368a94cb5456ae15",
+  "active": "fd6ecb9459f10bbb",
   "lastOpenFiles": [
+    "rewrite/1 - Setup/1.1 - Instance Setup.md",
     "rewrite/0 - Intro.md",
-    "rewrite/1 - Setup/2.1 - Instance Setup.md",
     "rewrite/1 - Setup/Untitled",
     "rewrite/2 - General.md",
     "rewrite/6 - End",

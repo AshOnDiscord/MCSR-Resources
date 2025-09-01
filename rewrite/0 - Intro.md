@@ -18,4 +18,7 @@ In this we are going to over the following main concepts, you don't have to worr
 	- One Cycle
 	- Zero Cycle
 
-It is heavily recommended you follow in the intended order as future sections may reference things taught in 
+It is heavily recommended you follow in the intended order as future sections may reference things taught in earlier segments
+
+---
+Next: [[1.1 - Instance Setup]]
